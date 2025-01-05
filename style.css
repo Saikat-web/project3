@@ -1,0 +1,41 @@
+h1{
+    color: orange;
+}
+
+.head1{
+    background-color: chartreuse;
+    border-radius: 5%;
+    border-color: red;
+}
+
+#bg{
+    color:white;
+    background-color: red;
+    border: 3px;
+    border-style:solid;
+    border-color: black;
+}
+div{ background-color: aqua;
+    width: 300px;
+    height: 400px;
+    align-content: center;
+    border: 4px;
+    border-style: dashed;
+    border-color: darkred;
+      }
+
+
+
+
+
+
+/* This is a single-line comment */
+/*CSS Selectors
+
+We can divide CSS selectors into five categories:
+
+Simple selectors (select elements based on name, id, class)
+Combinator selectors (select elements based on a specific relationship between them)
+Pseudo-class selectors (select elements based on a certain state)
+Pseudo-elements selectors (select and style a part of an element)
+Attribute selectors (select elements based on an attribute or attribute value)*/
